@@ -1,9 +1,13 @@
 ## Intro.
 #### 👋 Hi, I’m @PlanningBug [정래경]
 
+### Work Experience
+- Kakaopay, Pangyo, South Korea / Data Analyst Intern
+  2024.12 ~ ing
+
 ### Kyonggi univ 
 - 2019.03 ~ 2025.02
-- MAJOR: Applied Statistics & AI Computer Engineering
+- MAJOR: Applied Statistics & AI Computer Science
 
 ### D.N.A (Data And Analysis study club)
 - member of a club (2023.03 ~ 2023.08)
@@ -17,7 +21,7 @@
 
 ### SKILL
 - Python
-- MySQL
+- SQL
 - Tableau
 - R
 
